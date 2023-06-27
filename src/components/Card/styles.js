@@ -46,14 +46,16 @@ export const Content = styled.div`
         text-align: center;
         align-items: center;
 
-        
-
         > img {
             width: 17.6rem;
             height: 17.6rem;
             margin: 3rem auto 1.6rem;
             border-radius: 50%;
             object-fit: cover
+        }
+
+        p {
+        margin-bottom: 6rem;
         }
     }
 
